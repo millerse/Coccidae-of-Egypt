@@ -1,4 +1,4 @@
-sourceTaxonId	sourceTaxonName	interactionTypeName	interactionTypeId	targetTaxonId	targetTaxonName	localityId	localityName	decimalLatitude	decimalLongitude	observationDateTime	referenceDoi	referenceCitation
+sourceTaxonId	sourceTaxonName	interactionTypeId	interactionTypeName	targetTaxonId	targetTaxonName	localityId	localityName	decimalLatitude	decimalLongitude	observationDateTime	referenceDoi	referenceCitation
 EOL:4342126	Aberia	RO:0002453	host of	EOL:838720	Phenacoccus hirsutus	GEONAMES:357994	Egypt					Hall, W.J., 1923. Further observations on the Coccidae of Egypt. Ministry of Agriculture, Technical and Scientific Service, Bulletin, (36), pp.1-61.
 EOL:71367	Abutilon	RO:0002453	host of	EOL:838720	Phenacoccus hirsutus	GEONAMES:357994	Egypt					Hall, W.J., 1923. Further observations on the Coccidae of Egypt. Ministry of Agriculture, Technical and Scientific Service, Bulletin, (36), pp.1-61.
 EOL:13650	Acacia	RO:0002453	host of	EOL:2646082	Icerya purchasi	GEONAMES:357994	Egypt					Hall, W.J., 1923. Further observations on the Coccidae of Egypt. Ministry of Agriculture, Technical and Scientific Service, Bulletin, (36), pp.1-61.
